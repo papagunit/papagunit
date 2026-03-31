@@ -28,8 +28,6 @@
       </p>
     </td>
     <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=papagunit&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="100%" />
-      <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=papagunit&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
@@ -90,7 +88,7 @@
   1. Add Platane/snk GitHub action to your repo.
   2. Uncomment the block below!
 -->
-<!--
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papagunit/papagunit/output/github-contribution-grid-snake-dark.svg">
@@ -98,4 +96,4 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/papagunit/papagunit/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
+
