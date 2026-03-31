@@ -1,6 +1,6 @@
-<!-- HEADER CAPSULE -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=280&amp;section=header&amp;text=papagunit&amp;fontSize=80&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Consultant%20%26%20Solutions%20Architect&amp;descAlignY=55&amp;descAlign=50" width="100%" />
+  <img src="./assets/banner.svg" width="100%" alt="papagunit banner" />
 </div>
 
 <!-- DYNAMIC TYPING SUBTITLE -->
@@ -37,13 +37,6 @@
 
 <br/>
 
-<!-- TROPHIES -->
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=papagunit&amp;theme=tokyonight&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15&amp;row=1&amp;column=6" alt="Trophies" />
-</div>
-
-<br/>
 
 <!-- TECH STACK GRID -->
 <h2 align="center">⚡ Technological Arsenal</h2>
@@ -85,11 +78,7 @@
 <br/>
 
 <!-- TOP LANGUAGES & VISITOR COUNT -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papagunit&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" width="50%" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=papagunit&amp;color=36BCF7&amp;style=for-the-badge&amp;label=VIEWS" alt="Profile Views" />
